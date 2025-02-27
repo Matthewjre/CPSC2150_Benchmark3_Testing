@@ -1,0 +1,21 @@
+Your job for this benchmark is to write 4 test cases for the ArrayStack class using the ArrayStack Test Plan doc as your
+template. When you complete the test plan SAVE IT AS A PDF!!!
+
+Once your test plan ***PDF*** is completed, use the TestArrayStack file to implement those tests you planned out in the
+test plan. I don't care what you call the tests as long as you're intentional with it and they follow the same general
+format we've used in class.
+
+If you need it, which you probably wont, but if you do, here's the wiki for Junit's assert
+https://github.com/junit-team/junit4/wiki/assertions
+
+Finally, make sure that your TestArrayStack compiles. We're half-way through the class now, I'm not going to accept code
+that doesn't compile without a harsh penalty.
+
+Submission:
+1. Your completed test plan as a PDF
+2. Your completed TestArrayStack file
+
+We are not committing/pushing this assignment back to GitHub. Instead, just submit it on Gradescope:
+https://www.gradescope.com/courses/944357/assignments/5861817
+
+Good luck!
