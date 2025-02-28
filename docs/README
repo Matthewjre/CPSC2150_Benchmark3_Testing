@@ -5,6 +5,11 @@ Once your test plan ***PDF*** is completed, use the TestArrayStack file to imple
 test plan. I don't care what you call the tests as long as you're intentional with it and they follow the same general
 format we've used in class.
 
+When you open the TestArrayStack file, your import statements will start throwing an error. Hover your mouse over the red Junit
+> Add Junit4 to classpath > don't change anything and just accept.
+
+If your test file doesn't seem to be runnable, go to file > invalidate caches > don't change anything > invalidate and restart
+
 If you need it, which you probably wont, but if you do, here's the wiki for Junit's assert
 https://github.com/junit-team/junit4/wiki/assertions
 
